@@ -1,7 +1,13 @@
-Template Name: Property
-Template Author: Untree.co
-Template License: https://creativecommons.org/licenses/by/3.0/
-Author URI: https://untree.co/
+# Property Wp Theme
 
-Twitter: https://twitter.com/Untree_co
-Facebook: https://web.facebook.com/Untree.co/
+I made this for my practice
+
+## original file
+
+[html](https://themewagon.com/themes/free-bootstrap-5-real-estate-website-template-property/)
+
+
+connect with me
+
+[Facebook](https://www.facebook.com/ArAsru.Islam)
+[Twitter](https://www.twitter.com/asru-islam)
